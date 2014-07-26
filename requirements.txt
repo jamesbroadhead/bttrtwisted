@@ -1,0 +1,6 @@
+Twisted>=13.0.0,<=14.0.0
+
+pyflakes==0.7.3
+pylint==1.0.0
+# needed by pylint, not explicitely depended upon
+astroid==1.0.1
